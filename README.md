@@ -10,7 +10,7 @@ XReport是一个基于Excel的报表工具，支持跨行合并，跨列合并�
 使用XReport很简单，将本项目克隆至你的项目中，需要修改的配置文件为Resources下的c3p0-config.xml，该配置文件为整个报表的数据源配置，配置规则和
 和C3P0的配置方式一样。
 
-### 函数
+### Function
 
 目前XReport支持以下几个函数：
 
